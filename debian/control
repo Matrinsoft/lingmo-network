@@ -9,7 +9,7 @@ Build-Depends:
     qt6-base-dev (>= 6.5),
     qt6-base-dev, qt6-declarative-dev,
 Standards-Version: 4.6.2
-Homepage: https://github.com/lingmo-os/lingmo-network
+Homepage: https://github.com/Matrinsoft/lingmo-network
 Rules-Requires-Root: no
 
 Package: liblingmo-network1
